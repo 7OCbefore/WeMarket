@@ -1,0 +1,22 @@
+# WMIS 依赖列表
+# 微信市场情报自动化系统
+
+# RPA 核心
+uiautomation>=2.0.0
+
+# 数据处理
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# 数据库
+sqlite-utils>=3.34.0
+
+# LLM API
+openai>=1.0.0
+httpx>=0.25.0
+
+# 配置文件
+pyyaml>=6.0
+
+# 工具库
+python-dateutil>=2.8.0
